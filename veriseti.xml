@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kitaplar>
+    <kitap>
+        <baslik>Kardeşimin Hikayesi</baslik>
+        <yazar>Zülfü Livaneli</yazar>
+        <resim>img/kardesimin_hikayesi.jpg</resim>
+        <yayin_tarihi>2013</yayin_tarihi>
+        <dil>Türkçe</dil>
+    </kitap>
+    <kitap>
+        <baslik>Serenad</baslik>
+        <yazar>Zülfü Livaneli</yazar>
+        <resim>img/serenad.jpg</resim>
+        <yayin_tarihi>2011</yayin_tarihi>
+        <dil>Türkçe</dil>
+    </kitap>
+    <kitap>
+        <baslik>Huzursuzluk</baslik>
+        <yazar>Zülfü Livaneli</yazar>
+        <resim>img/huzursuzluk.jpg</resim>
+        <yayin_tarihi>2017</yayin_tarihi>
+        <dil>Türkçe</dil>
+    </kitap>
+    <kitap>
+        <baslik>Balıkçı ve Oğlu</baslik>
+        <yazar>Zülfü Livaneli</yazar>
+        <resim>img/balikci_ve_oglu.jpg</resim>
+        <yayin_tarihi>2021</yayin_tarihi>
+        <dil>Türkçe</dil>
+    </kitap>
+    <kitap>
+        <baslik>Son Ada</baslik>
+        <yazar>Zülfü Livaneli</yazar>
+        <resim>img/son_ada.jpg</resim>
+        <yayin_tarihi>2008</yayin_tarihi>
+        <dil>Türkçe</dil>
+    </kitap>
+    <kitap>
+        <baslik>Leyla'ın Evi</baslik>
+        <yazar>Zülfü Livaneli</yazar>
+        <resim>img/leylanin_evi.jpg</resim>
+        <yayin_tarihi>2006</yayin_tarihi>
+        <dil>Türkçe</dil>
+    </kitap>
+</kitaplar>
+
